@@ -8,6 +8,7 @@ import 'Util.dart';
 
 //
 // VIDEO EN: https://www.youtube.com/watch?v=FqTES533y58
+// VIDEO: https://www.youtube.com/watch?v=i819v3WXI9w&t=315s
 void main() =>  runApp(MyApp());
 final int Max_WIDTH = 1440;
 
